@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##To run the app we need to configure environment variable used in the App which are as follows-
+ -CONNECTION_URL
+ -CLOUD_NAME
+ -CLOUDINARY_API_KEY
+ -CLOUDINARY_API_SECRET
+ -JWT_SECRET_KEY
+ -SENDGRID_API_KEY
+
 ## Available Scripts
 
 In the project directory, you can run:
