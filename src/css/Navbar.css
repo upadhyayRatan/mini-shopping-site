@@ -1,0 +1,31 @@
+.navBar {
+    background-color: burlywood;
+}
+
+.product-btn {
+    color: burlywood;
+    margin: 0 auto;
+
+}
+
+.logoutBtn {
+    margin-right: 5px;
+    color: black;
+    border: 1px solid green;
+    background-color: rgba(32, 141, 218, 0.658);
+    border-radius: 3px;
+}
+
+button.logoutBtn:hover {
+    background-color: orangered;
+}
+
+.cart-logout-btn .logoutLink {
+    margin-right: 5px;
+    padding-right: 3px;
+    background-color: aqua;
+}
+
+.cart-logout-btn .cartBtn {
+    margin-left: 2px;
+}
